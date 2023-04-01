@@ -26,7 +26,7 @@
 
 ## Tech Stack
 
-**Client:** HTML, CSS, JavaScript
+**Client:** HTML, CSS, JavaScript, C++, NLP
 
 **Dataset:** Custom made JSON file (Fetched through JavaScript)
 
